@@ -1,10 +1,10 @@
-![Web Developer Roadmap](https://i.imgur.com/oxsayps.png)
+![Camino del Desarrollador Web](https://i.imgur.com/oxsayps.png)
 
-> Roadmap to becoming a web developer in 2018
+> Camino y Guía para Convertirse en un Desarrollador Web en 2018 - Una traducción al español del developer-roadmap de kamranahmedse
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective.
+A continuación encontrarás un conjunto de diagramas que muestran los caminos que puedes tomar y las tecnologías que deberás adoptar para convertirte en un frontend, back-end o un devops.
 
-If you think that these can be improved in anyway, please do suggest.
+Si piensas que estos caminos pueden mejorarse de cualquier forma, porfavor avisanos.
 
 ***
 
@@ -13,51 +13,43 @@ If you think that these can be improved in anyway, please do suggest.
 ***
 
 
-## 🚀 Introduction
+## 🚀 Introducción
 
-![](https://i.imgur.com/OZUOUtI.png)
+![](https://i.imgur.com/w74JJAy.png)
 
-## 🎨 Front-end Roadmap
+## 🎨 Camino del Desarrollador Front-end
 
-![](https://i.imgur.com/WrfLESm.png)
+![](https://i.imgur.com/LZBh1Nn.png)
 
-## 👽 Back-end Roadmap
+## 👽 Camino del Desarrollador Back-end
 
-For the backend, personally I would prefer Node.js and PHP 7 for the full time. Plus, I have been experimenting lately with Go and I quite like it. Apart from these, if I have to choose another one, I would go for Ruby. However this is just my personal preference, you can choose any of the shown languages and you will be good.
+![](https://i.imgur.com/43wbsde.png)
 
-![](https://i.imgur.com/Ihg4YAb.png)
+## 👷 Camino del DevOps
 
-## 👷 DevOps Roadmap
-
-![](https://i.imgur.com/wpj5pqk.png)
+![](https://i.imgur.com/5sbJxa5.png)
 
 <br>
 
-## 🚦 Wrap Up
+## 🚦 Concluyendo
 
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+Si crees que cualquier camino puede ser mejorado, porfavor abre un PR con los cambios y reporta cualquier error que veas. Además, continuaré mejorándolo, así que tal vez quieras seguir o marcar como favorito este repositorio para darle seguimiento.
 
-## ☑ TODO
+## ☑ TODO (Por hacer)
 
-- [X] Add Frontend Roadmap
-- [X] Add Backend Roadmap
-- [X] Add DevOps Roadmap
-- [ ] Add relevant resources for each
+- [X] Agregar el camino para desarrolladores Frontend
+- [X] Agregar el camino para desarrolladores Backend
+- [X] Agregar el camino para DevOps
+- [ ] Agregar recursos relevantes para cada uno de ellos
 
 ## 👬 Contribution
 
-The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/). Project file can be found at `/project-files` directory. To modify any of the roadmaps, open Balsamiq, click **Project > Import > Mockup JSON**, it will open the roadmap for you, update it, upload and update the images in readme and create a PR.		
+Los caminos son construidos usando [Balsamiq](https://balsamiq.com/products/mockups/). Los archivos del proyecto los puedes encontrar en el folder `/project-files`. Para modificar cualquier camino, abre Balsamiq, da click en **Project > Import > Mockup JSON**, te abrirá el camino, actualizalo, subelo y actualiza las imagenes en el readme y crea un PR.		
 
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+- Abre un pull request con mejoras
+- Discute ideas y problemas
+- Pasa la Voz t Comparte
 
-## Sponsored By
-
-- [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
-- [Highig - Think and its done](http://highig.com/)
-
-## License
+## Licencia
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
