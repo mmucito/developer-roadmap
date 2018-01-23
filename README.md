@@ -1,16 +1,10 @@
-![Camino del Desarrollador Web](https://i.imgur.com/oxsayps.png)
+# Camino del Desarrollador Web - 2018
 
 > Camino y Guía para Convertirse en un Desarrollador Web en 2018 - Una traducción al español del developer-roadmap de kamranahmedse
 
 A continuación encontrarás un conjunto de diagramas que muestran los caminos que puedes tomar y las tecnologías que deberás adoptar para convertirte en un frontend, back-end o un devops.
 
 Si piensas que estos caminos pueden mejorarse de cualquier forma, porfavor avisanos.
-
-***
-
-<p align="center"><b> Did you like this guide and want more of the similar content? </b><br>Subscribe for the launch of <a href="http://hugobots.com">Hugobots</a> or <a href="http://twitter.com/kamranahmedse">follow me on twitter</a>!</p>
-
-***
 
 
 ## 🚀 Introducción
@@ -42,7 +36,7 @@ Si crees que cualquier camino puede ser mejorado, porfavor abre un PR con los ca
 - [X] Agregar el camino para DevOps
 - [ ] Agregar recursos relevantes para cada uno de ellos
 
-## 👬 Contribution
+## 👬 Contribución
 
 Los caminos son construidos usando [Balsamiq](https://balsamiq.com/products/mockups/). Los archivos del proyecto los puedes encontrar en el folder `/project-files`. Para modificar cualquier camino, abre Balsamiq, da click en **Project > Import > Mockup JSON**, te abrirá el camino, actualizalo, subelo y actualiza las imagenes en el readme y crea un PR.		
 
