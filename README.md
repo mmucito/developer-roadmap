@@ -9,7 +9,7 @@ Si piensas que estos caminos pueden mejorarse de cualquier forma, porfavor avisa
 
 ## 🚀 Introducción
 
-![](https://i.imgur.com/w74JJAy.png)
+![](https://i.imgur.com/IQ4Vi12.png)
 
 ## 🎨 Camino del Desarrollador Front-end
 
@@ -47,3 +47,4 @@ Los caminos son construidos usando [Balsamiq](https://balsamiq.com/products/mock
 ## Licencia
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
